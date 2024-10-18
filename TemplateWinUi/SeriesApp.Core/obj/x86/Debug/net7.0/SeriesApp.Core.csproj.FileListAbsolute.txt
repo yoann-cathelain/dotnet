@@ -1,0 +1,12 @@
+C:\Users\yoann\source\repos\SeriesApp.Core\bin\x86\Debug\net7.0\SeriesApp.Core.deps.json
+C:\Users\yoann\source\repos\SeriesApp.Core\bin\x86\Debug\net7.0\SeriesApp.Core.dll
+C:\Users\yoann\source\repos\SeriesApp.Core\bin\x86\Debug\net7.0\SeriesApp.Core.pdb
+C:\Users\yoann\source\repos\SeriesApp.Core\obj\x86\Debug\net7.0\SeriesApp.Core.csproj.AssemblyReference.cache
+C:\Users\yoann\source\repos\SeriesApp.Core\obj\x86\Debug\net7.0\SeriesApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoann\source\repos\SeriesApp.Core\obj\x86\Debug\net7.0\SeriesApp.Core.AssemblyInfoInputs.cache
+C:\Users\yoann\source\repos\SeriesApp.Core\obj\x86\Debug\net7.0\SeriesApp.Core.AssemblyInfo.cs
+C:\Users\yoann\source\repos\SeriesApp.Core\obj\x86\Debug\net7.0\SeriesApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\yoann\source\repos\SeriesApp.Core\obj\x86\Debug\net7.0\SeriesApp.Core.dll
+C:\Users\yoann\source\repos\SeriesApp.Core\obj\x86\Debug\net7.0\refint\SeriesApp.Core.dll
+C:\Users\yoann\source\repos\SeriesApp.Core\obj\x86\Debug\net7.0\SeriesApp.Core.pdb
+C:\Users\yoann\source\repos\SeriesApp.Core\obj\x86\Debug\net7.0\ref\SeriesApp.Core.dll

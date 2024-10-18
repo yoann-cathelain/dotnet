@@ -1,0 +1,1 @@
+C:\Users\yoann\source\repos\SeriesApp\SeriesApp.csproj;x86

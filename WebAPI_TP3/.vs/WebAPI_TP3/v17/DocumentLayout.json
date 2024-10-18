@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yoann\\OneDrive\\Bureau\\COURS_CPE\\5IRC\\.NET\\WebAPI_TP3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83B4D693-156D-41AA-AA8C-561B0A805A9F}|WebAPI_TP3.csproj|c:\\users\\yoann\\onedrive\\bureau\\cours_cpe\\5irc\\.net\\webapi_tp3\\models\\entityframework\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83B4D693-156D-41AA-AA8C-561B0A805A9F}|WebAPI_TP3.csproj|solutionrelative:models\\entityframework\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83B4D693-156D-41AA-AA8C-561B0A805A9F}|WebAPI_TP3.csproj|c:\\users\\yoann\\onedrive\\bureau\\cours_cpe\\5irc\\.net\\webapi_tp3\\controllers\\utilisateurscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83B4D693-156D-41AA-AA8C-561B0A805A9F}|WebAPI_TP3.csproj|solutionrelative:controllers\\utilisateurscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D537589-7BD1-40DA-BB60-70C2B2A59334}|..\\WebAPI_TP3Tests\\WebAPI_TP3Tests.csproj|c:\\users\\yoann\\onedrive\\bureau\\cours_cpe\\5irc\\.net\\webapi_tp3tests\\controllers\\utilisateurscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83B4D693-156D-41AA-AA8C-561B0A805A9F}|WebAPI_TP3.csproj|c:\\users\\yoann\\onedrive\\bureau\\cours_cpe\\5irc\\.net\\webapi_tp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83B4D693-156D-41AA-AA8C-561B0A805A9F}|WebAPI_TP3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83B4D693-156D-41AA-AA8C-561B0A805A9F}|WebAPI_TP3.csproj|c:\\users\\yoann\\onedrive\\bureau\\cours_cpe\\5irc\\.net\\webapi_tp3\\models\\repository\\idatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83B4D693-156D-41AA-AA8C-561B0A805A9F}|WebAPI_TP3.csproj|solutionrelative:models\\repository\\idatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83B4D693-156D-41AA-AA8C-561B0A805A9F}|WebAPI_TP3.csproj|c:\\users\\yoann\\onedrive\\bureau\\cours_cpe\\5irc\\.net\\webapi_tp3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{83B4D693-156D-41AA-AA8C-561B0A805A9F}|WebAPI_TP3.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Utilisateur.cs",
+              "DocumentMoniker": "C:\\Users\\yoann\\OneDrive\\Bureau\\COURS_CPE\\5IRC\\.NET\\WebAPI_TP3\\Models\\EntityFramework\\Utilisateur.cs",
+              "RelativeDocumentMoniker": "Models\\EntityFramework\\Utilisateur.cs",
+              "ToolTip": "C:\\Users\\yoann\\OneDrive\\Bureau\\COURS_CPE\\5IRC\\.NET\\WebAPI_TP3\\Models\\EntityFramework\\Utilisateur.cs",
+              "RelativeToolTip": "Models\\EntityFramework\\Utilisateur.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T09:16:06.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yoann\\OneDrive\\Bureau\\COURS_CPE\\5IRC\\.NET\\WebAPI_TP3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\yoann\\OneDrive\\Bureau\\COURS_CPE\\5IRC\\.NET\\WebAPI_TP3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwBQAAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T13:56:25.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UtilisateursController.cs",
+              "DocumentMoniker": "C:\\Users\\yoann\\OneDrive\\Bureau\\COURS_CPE\\5IRC\\.NET\\WebAPI_TP3\\Controllers\\UtilisateursController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UtilisateursController.cs",
+              "ToolTip": "C:\\Users\\yoann\\OneDrive\\Bureau\\COURS_CPE\\5IRC\\.NET\\WebAPI_TP3\\Controllers\\UtilisateursController.cs",
+              "RelativeToolTip": "Controllers\\UtilisateursController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAADwv1YAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:37:33.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDataRepository.cs",
+              "DocumentMoniker": "C:\\Users\\yoann\\OneDrive\\Bureau\\COURS_CPE\\5IRC\\.NET\\WebAPI_TP3\\Models\\Repository\\IDataRepository.cs",
+              "RelativeDocumentMoniker": "Models\\Repository\\IDataRepository.cs",
+              "ToolTip": "C:\\Users\\yoann\\OneDrive\\Bureau\\COURS_CPE\\5IRC\\.NET\\WebAPI_TP3\\Models\\Repository\\IDataRepository.cs",
+              "RelativeToolTip": "Models\\Repository\\IDataRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:16:36.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UtilisateursControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\yoann\\OneDrive\\Bureau\\COURS_CPE\\5IRC\\.NET\\WebAPI_TP3Tests\\Controllers\\UtilisateursControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\WebAPI_TP3Tests\\Controllers\\UtilisateursControllerTests.cs",
+              "ToolTip": "C:\\Users\\yoann\\OneDrive\\Bureau\\COURS_CPE\\5IRC\\.NET\\WebAPI_TP3Tests\\Controllers\\UtilisateursControllerTests.cs",
+              "RelativeToolTip": "..\\WebAPI_TP3Tests\\Controllers\\UtilisateursControllerTests.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAwwAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:41:37.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\yoann\\OneDrive\\Bureau\\COURS_CPE\\5IRC\\.NET\\WebAPI_TP3\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\yoann\\OneDrive\\Bureau\\COURS_CPE\\5IRC\\.NET\\WebAPI_TP3\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-27T08:52:19.651Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=04a48156_002D6c4d_002D42db_002D8941_002Da9fa6f16432c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetUtilisateursTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::1D537589-7BD1-40DA-BB60-70C2B2A59334::net8.0::WebAPI_TP3.Controllers.Tests.UtilisateursControllerTests.GetUtilisateursTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=91f0bfee_002Da78a_002D403b_002D9c9a_002Db22afc293ea2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetUtilisateursTest #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::1D537589-7BD1-40DA-BB60-70C2B2A59334::net8.0::WebAPI_TP3.Controllers.Tests.UtilisateursControllerTests.GetUtilisateursTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::1D537589-7BD1-40DA-BB60-70C2B2A59334::net8.0::WebAPI_TP3.Controllers.Tests.UtilisateursControllerTests.GetUtilisateurByIdTest_ReturnsRightItem&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::1D537589-7BD1-40DA-BB60-70C2B2A59334::net8.0::WebAPI_TP3.Controllers.Tests.UtilisateursControllerTests.GetUtilisateurByIdTest_ReturnsNotFound&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::1D537589-7BD1-40DA-BB60-70C2B2A59334::net8.0::WebAPI_TP3.Controllers.Tests.UtilisateursControllerTests.GetUtilisateurByEmailTest_ReturnsRightItem&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::1D537589-7BD1-40DA-BB60-70C2B2A59334::net8.0::WebAPI_TP3.Controllers.Tests.UtilisateursControllerTests.GetUtilisateurByEmailTest_ReturnsNotFound&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::1D537589-7BD1-40DA-BB60-70C2B2A59334::net8.0::WebAPI_TP3.Controllers.Tests.UtilisateursControllerTests.Postutilisateur_ModelValidated_CreationOK&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::1D537589-7BD1-40DA-BB60-70C2B2A59334::net8.0::WebAPI_TP3.Controllers.Tests.UtilisateursControllerTests.PutUtilisateurTest_Moq&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

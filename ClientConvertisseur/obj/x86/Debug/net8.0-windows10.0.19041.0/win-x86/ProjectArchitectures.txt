@@ -1,0 +1,1 @@
+C:\Users\yoann\OneDrive\Bureau\COURS_CPE\5IRC\.NET\ClientConvertisseur\ClientConvertisseur.csproj;x86
